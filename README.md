@@ -7,7 +7,7 @@ This repository contains uploaded homework, and explains the process behind my s
 |[Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)|MIT|B~A|Done|First course|
 |[Multi Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)|MIT|A|Done||
 |[Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)|MIT|-|Dropped|Lots of memorization. Dropped at Fourier Series|
-|[Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)|MIT|B~A|Done|Quite fun but forgot everything|
+|[Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)|MIT|B|Done|Quite fun but forgot everything|
 |[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)|MIT|B~A|Done|Had to restart this course because I forgot everything when midterms arrived|
 |[Cambridge STEP](https://www.maths.cam.ac.uk/undergrad/admissions/step)|Cambridge Assessment|2,1 (60,64)|Done|Actual grades. Studied between April-June 2022. My STEP II were 2 marks away from 1. Standard entrance requirements for Cambridge Math was 1,1, Imperial: 2, Warwick: 2. Grade percentiles:~23%, ~33%|
 |[Linear Algebra and Matrix Theory](http://math.stanford.edu/~church/teaching/113-F15/)|Stanford|-|In Progress|-|
