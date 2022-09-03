@@ -1,4 +1,4 @@
-# math-homework-directory
+# self-study-hw
 This repository contains uploaded homework, and explains the process behind my self study — mainly math — alongside insights I picked up.
 
 ## What am I doing?
