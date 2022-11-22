@@ -10,7 +10,7 @@ This repository contains uploaded homework, and explains the process behind my s
 |[Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)|MIT|B|Done|Quite fun but forgot everything|
 |[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)|MIT|B~A|Done|Had to restart this course because I forgot everything when midterms arrived|
 |[Cambridge STEP](https://www.maths.cam.ac.uk/undergrad/admissions/step)|Cambridge Assessment|2,1 (60,64)|Done|Actual grades. Studied between April-June 2022. My STEP II were 2 marks away from 1. Standard entrance requirements for Cambridge Math was 1,1, Imperial: 2, Warwick: 2. Grade percentiles:~23%, ~33%|
-|[Linear Algebra and Matrix Theory](http://math.stanford.edu/~church/teaching/113-F15/)|Stanford|-|In Progress|-|
+|[Linear Algebra and Matrix Theory](http://math.stanford.edu/~church/teaching/113-F15/)|Stanford||B~A|Done|-|
 |[Analysis in Several Real Variables I](https://math.dartmouth.edu/~jvoight/Fa2010-241/)|Dartmouth|-|In Progress|-|
 |[Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)|MIT|-|In Progress|-|
 |[Introduction to Psychology](https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/)|MIT|-|In Progress|Prerequisite for [The Human Brain.](https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/) Exploring neuroscience to see if it's fun|
