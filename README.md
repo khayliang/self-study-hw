@@ -7,7 +7,7 @@ This repository contains uploaded homework, and explains the process behind my s
 |[Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)|MIT|B~A|Done|First course|
 |[Multi Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)|MIT|A|Done||
 |[Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)|MIT|-|Dropped|Lots of memorization. Dropped at Fourier Series|
-|[Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)|MIT|B|Done|Quite fun but forgot everything|
+|[Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)|MIT|~81|Done|Quite fun but forgot everything|
 |[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)|MIT|87|Done|Had to restart this course because I forgot everything when midterms arrived|
 |[Linear Algebra and Matrix Theory](http://math.stanford.edu/~church/teaching/113-F15/)|Stanford|B~A|Done|-|
 |[Analysis in Several Real Variables I](https://math.dartmouth.edu/~jvoight/Fa2010-241/)|Dartmouth|-|In Progress|-|
