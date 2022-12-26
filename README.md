@@ -17,7 +17,7 @@ This repository contains uploaded homework, and explains the process behind my s
 |[Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience)|Coursera(Duke)|-|In progress|-|
 |[Introductory Biology](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/)|MIT|-|To Do|-|
 |[The Human Brain](https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/)|MIT|-|To Do|-|
-|[Probabilistic Systems and Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)|MIT|-|To Do|-|
+|[Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/)|Harvard|-|In progress|-|
 ## Why study mathematics?
 I realized after some time that there is only so much cool things I can accomplish through coding without fundamentals in mathematics and science, so I decided to do a bunch of courses by MIT and other colleges to bring myself up to speed. 
 
