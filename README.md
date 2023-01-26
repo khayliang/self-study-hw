@@ -13,7 +13,7 @@ This repository contains uploaded homework, and explains the process behind my s
 |[Analysis in Several Real Variables I](https://math.dartmouth.edu/~jvoight/Fa2010-241/)|Dartmouth|-|To do|-|
 |[Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)|MIT|-|To do|-|
 |[Introduction to Psychology](https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/)|MIT|84.7|Done|Prerequisite for [The Human Brain.](https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/) Exploring neuroscience to see if it's fun|
-|[Neural Computation](https://redwood.berkeley.edu/courses/vs265-fall-2018/)|Berkeley|-|To Do|-|
+|[Neural Computation](https://redwood.berkeley.edu/courses/vs265-fall-2018/)|Berkeley|-|In Progress|-|
 |[Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience)|Coursera(Duke)|90|Done|-|
 |[Introductory Biology](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/)|MIT|-|To Do|-|
 |[The Human Brain](https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/)|MIT|-|To Do|-|
