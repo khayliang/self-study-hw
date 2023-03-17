@@ -18,7 +18,7 @@ This repository contains uploaded homework, and explains the process behind my s
 |[Introductory Biology](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/)|MIT|-|To Do|-|
 |[The Human Brain](https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/)|MIT|-|To Do|-|
 |[Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/)|Harvard|-|In progress|-|
-|[Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)|MIT|-|In Progress|-|
+|[Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)|MIT|-|Done|-|
 ## Why study mathematics?
 I realized after some time that there is only so much cool things I can accomplish through coding without fundamentals in mathematics and science, so I decided to do a bunch of courses by MIT and other colleges to bring myself up to speed. 
 
